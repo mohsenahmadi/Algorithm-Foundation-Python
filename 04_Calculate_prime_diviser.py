@@ -1,4 +1,4 @@
-#Python Programm to calculate prime diviser of your entered number
+#Python Programm to calculate prime diviser of your entered number.
 import mpmath
 num = int(input("Enter your number:"))
 for i in range(1, num+1):
